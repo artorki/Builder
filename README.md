@@ -3,17 +3,20 @@ Creating malware without coding
 Mini Builder - Version 1 - Windows
 
 
-
-<h4>● Ransomware:</h4>Generate a hidden executable file to encrypt and lock target system files.
-
-
-<h4>● Keylogger:</h4>Creating a hidden Keylogger connected to your Telegram to eavesdrop on the target system.
+<h4>● Ransomware:</h4>
+Generate a hidden executable file to encrypt and lock target system files.
 
 
-<h4>● Copy Files:</h4>Copy the files you need on the target system to your flash drive secretly in one second.
+#### ● Keylogger:
+Creating a hidden Keylogger connected to your Telegram to eavesdrop on the target system.
 
 
-<h4>● Delete Files:</h4>Delete the files you want on the target system secretly and in a second.
+<h4>● Copy Files:</h4>
+Copy the files you need on the target system to your flash drive secretly in one second.
+
+
+<h4>● Delete Files:</h4>
+Delete the files you want on the target system secretly and in a second.
 
 
 <h4></h4>

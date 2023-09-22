@@ -17,6 +17,3 @@ Copy the files you need on the target system to your flash drive secretly in one
 
 #### ● Delete Files:
 Delete the files you want on the target system secretly and in a second.
-
-
-<h4></h4>

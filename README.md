@@ -3,7 +3,7 @@ Creating malware without coding
 Mini Builder - Version 1 - Windows
 
 
-● Ransomware:
+##Ransomware:
 
 Generate a hidden executable file to encrypt and lock target system files.
 

@@ -2,6 +2,8 @@
 Creating malware without coding
 Mini Builder - Version 1 - Windows
 
+
+
 <h4>● Ransomware:</h4>Generate a hidden executable file to encrypt and lock target system files.
 
 <h4>● Keylogger:</h4>Creating a hidden Keylogger connected to your Telegram to eavesdrop on the target system.

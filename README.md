@@ -7,9 +7,7 @@ Mini Builder - Version 1 - Windows
 </p1>
 
 <p>
-<h4>
-● Ransomware:
-</h4>
+<h4>● Ransomware:</h4>
 Generate a hidden executable file to encrypt and lock target system files.
 
 <h4>
